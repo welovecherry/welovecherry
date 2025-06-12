@@ -6,11 +6,11 @@
 
 ### 🚀 About Me
 
-I'm a **Software Engineer** with a solid foundation in **Computer Science fundamentals** and a growing passion for **AI/ML and MLOps**. 
+I'm a **Software Engineer** with a solid foundation in **Computer Science fundamentals** and a growing passion for **AI/ML and MLOps**.  
 My journey began with rigorous training in **C/C++** for 2 years,  
 building strong problem-solving skills and deep understanding of system-level programming.
 
-Currently transitioning into the exciting world of **Machine Learning Operations (MLOps)** and **AI development**, 
+Currently transitioning into the exciting world of **Machine Learning Operations (MLOps)** and **AI development**,  
 combining my solid programming foundation with cutting-edge technologies.
 
 ### 💻 Tech Stack
@@ -118,7 +118,7 @@ combining my solid programming foundation with cutting-edge technologies.
 안녕하세요! 저는 **컴퓨터 사이언스의 탄탄한 기초**를 바탕으로 **AI/ML과 MLOps** 분야로 성장하고 있는 **소프트웨어 엔지니어**입니다. 
 
 **2년간 C/C++를 집중적으로 학습**하며 문제 해결 능력과 시스템 프로그래밍에 대한 깊은 이해를 쌓았습니다.  
-현재는 이러한 프로그래밍 기초를 바탕으로 **MLOps**와 **AI 개발**의 세계로 전환하고 있습니다.
+현재는 이러한 프로그래밍 기초를 바탕으로 **MLOps**와 **AI 개발**의 세계로 전환하고 있습니다.  
 
 ### 💻 기술 스택
 
@@ -143,7 +143,7 @@ combining my solid programming foundation with cutting-edge technologies.
 - **C (시스템 프로그래밍의 기초)**  
   - 포인터, 메모리 관리, 입출력 시스템 호출을 직접 구현  
   - 문자열 처리, 버퍼링, 파일 디스크립터 다룸 (get_next_line, libft, ft_printf)  
-  - `minishell` 프로젝트에서는 **bash처럼 동작하는 나만의 셸**을 만들었고, 명령어 실행, **리다이렉션(<, >)**, **파이프(|)** 기능 구현
+  - `minishell` 프로젝트에서는 **bash처럼 동작하는 나만의 셸**을 만들었고, 명령어 실행, **리다이렉션(<, >)**, **파이프(|)** 기능 구현  
 
 - **C++ (객체지향 설계와 메모리 안전성)**  
   클래스 상속, 추상화, 예외 처리, 연산자 오버로딩 활용  
