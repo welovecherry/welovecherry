@@ -7,7 +7,8 @@
 ### 🚀 About Me
 
 I'm a **Software Engineer** with a solid foundation in **Computer Science fundamentals** and a growing passion for **AI/ML and MLOps**. 
-My journey began with rigorous training in **C/C++** for 2 years, building strong problem-solving skills and deep understanding of system-level programming.
+My journey began with rigorous training in **C/C++** for 2 years,  
+building strong problem-solving skills and deep understanding of system-level programming.
 
 Currently transitioning into the exciting world of **Machine Learning Operations (MLOps)** and **AI development**, 
 combining my solid programming foundation with cutting-edge technologies.
@@ -116,7 +117,7 @@ combining my solid programming foundation with cutting-edge technologies.
 
 안녕하세요! 저는 **컴퓨터 사이언스의 탄탄한 기초**를 바탕으로 **AI/ML과 MLOps** 분야로 성장하고 있는 **소프트웨어 엔지니어**입니다. 
 
-**2년간 C/C++를 집중적으로 학습**하며 문제 해결 능력과 시스템 프로그래밍에 대한 깊은 이해를 쌓았습니다. 
+**2년간 C/C++를 집중적으로 학습**하며 문제 해결 능력과 시스템 프로그래밍에 대한 깊은 이해를 쌓았습니다.  
 현재는 이러한 프로그래밍 기초를 바탕으로 **MLOps**와 **AI 개발**의 세계로 전환하고 있습니다.
 
 ### 💻 기술 스택
