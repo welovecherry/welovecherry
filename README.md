@@ -104,10 +104,10 @@ combining my solid programming foundation with cutting-edge technologies.
 
 ### 🌟 Featured Projects
 
-- **🔥 MLOps Cloud Project** – Cloud-based ML pipeline with automated deployment  
-- **📈 AI Trading Bot** – Intelligent cryptocurrency trading system  
-- **🎮 3D Game Engine** – Built from scratch in C  
-- **🏗️ System Programming Projects** – Shell, memory allocators, and core utilities  
+- **MLOps Cloud Project** – Cloud-based ML pipeline with automated deployment  
+- **AI Trading Bot** – Intelligent cryptocurrency trading system  
+- **Fractal & Raycasting Game Renderer** – Implemented Julia/Mandelbrot fractals and map parsing in C  
+- **System Programming** – Built shell, memory allocator, and essential utilities  
 ---
 
 ## <a name="korean"></a>한국어
@@ -117,7 +117,7 @@ combining my solid programming foundation with cutting-edge technologies.
 안녕하세요! 저는 **컴퓨터 사이언스의 탄탄한 기초**를 바탕으로 **AI/ML과 MLOps** 분야로 성장하고 있는 **소프트웨어 엔지니어**입니다. 
 
 **2년간 C/C++를 집중적으로 학습**하며 문제 해결 능력과 시스템 프로그래밍에 대한 깊은 이해를 쌓았습니다. 
-현재는 이러한 프로그래밍 기초를 바탕으로 **머신러닝 운영(MLOps)**과 **AI 개발**의 세계로 전환하고 있습니다.
+현재는 이러한 프로그래밍 기초를 바탕으로 **MLOps**와 **AI 개발**의 세계로 전환하고 있습니다.
 
 ### 💻 기술 스택
 
@@ -137,14 +137,12 @@ combining my solid programming foundation with cutting-edge technologies.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 💻 기술 스택
+### 💻 기술 스택 설명
 
 - **C (시스템 프로그래밍의 기초)**  
-  포인터, 메모리 관리, 입출력 시스템 호출을 직접 구현  
-  - 문자열 처리, 버퍼링, 파일 디스크립터 다룸 (get_next_line, libft)  
-  
-  `minishell` 프로젝트에서는 **bash처럼 동작하는 나만의 셸**을 만들었고,  
-  명령어 실행, **리다이렉션(<, >)**, **파이프(|)** 기능 구현
+  - 포인터, 메모리 관리, 입출력 시스템 호출을 직접 구현  
+  - 문자열 처리, 버퍼링, 파일 디스크립터 다룸 (get_next_line, libft, ft_printf)  
+  - `minishell` 프로젝트에서는 **bash처럼 동작하는 나만의 셸**을 만들었고, 명령어 실행, **리다이렉션(<, >)**, **파이프(|)** 기능 구현
 
 - **C++ (객체지향 설계와 메모리 안전성)**  
   클래스 상속, 추상화, 예외 처리, 연산자 오버로딩 활용  
@@ -200,9 +198,9 @@ combining my solid programming foundation with cutting-edge technologies.
 
 ### 🌟 주요 프로젝트
 
-- **🔥 MLOps 클라우드 프로젝트** - 자동화된 배포를 포함한 클라우드 기반 ML 파이프라인
-- **📈 AI 트레이딩 봇** - 지능형 암호화폐 거래 시스템
-- **🎮 3D 게임 엔진** - C언어로 처음부터 구현
-- **🏗️ 시스템 프로그래밍** - 셸, 메모리 할당자, 핵심 유틸리티
+- ** MLOps 클라우드 프로젝트** - 자동화된 배포를 포함한 클라우드 기반 ML 파이프라인
+- ** AI 트레이딩 봇** - 지능형 암호화폐 거래 시스템
+- ** 프렉탈, 레이케스팅 기반 게임 렌더링 구현** - C언어로 Julia/Mandelbrot 프렉탈 구현, 맵 파싱
+- ** 시스템 프로그래밍** - 셸, 메모리 할당자, 핵심 유틸리티
 
 ---
