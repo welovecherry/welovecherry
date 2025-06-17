@@ -33,11 +33,7 @@ combining my solid programming foundation with cutting-edge technologies.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welovecherry&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welovecherry&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welovecherry&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welovecherry&show_icons=theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welovecherry&layout=compact&theme=radical&hide_border=true)
 
